@@ -1,4 +1,6 @@
 # hello-java
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fron-duck%2Fhello-java.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fron-duck%2Fhello-java?ref=badge_shield)
+
 
 A simple hello world Java app with some coding errors for demoing Black Duck product integrations with various CI systems.
 
@@ -16,3 +18,7 @@ CI Integration Examples (configured for Maven)
 - [jenkins](jenkins) - example Jenkins pipelines
 - [Jenkinsfile](Jenkinsfile) - Coverity on Jenkins with full + incr scans using GitHub Branch Source plugin
 - [polaris.yml](polaris.yml) - Polaris project configuration
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fron-duck%2Fhello-java.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fron-duck%2Fhello-java?ref=badge_large)
